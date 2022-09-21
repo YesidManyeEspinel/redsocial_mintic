@@ -1,0 +1,30 @@
+body {
+    background-color: #C5CDD8;
+    text-align: center;
+}
+
+h1 {
+    color: #ffffff;
+    text-align: center;
+    background-color: #000871;
+}
+
+form {
+    width: 350px;
+    height: 360px;
+    padding: 16px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: #b8c1ce;
+}
+
+form input {
+    padding: 3px 10px;
+    border: 1px solid #f6f6f6;
+    border-radius: 3px;
+}
+
+th {
+    width: 100px;
+    height: 20px;
+}
